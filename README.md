@@ -2,7 +2,7 @@
 
 ### Usage
 
-Add /api/whoami to the end of the URL on this site ([http://a-request-header-parser.herokuapp.com](http://a-request-header-parser.herokuapp.com) to see your IP address, the language you are using, and your computer's operating system.
+Add /api/whoami to the end of the URL on this site ([http://a-request-header-parser.herokuapp.com](http://a-request-header-parser.herokuapp.com)) to see your IP address, the language you are using, and your computer's operating system.
 
 ### Example Input
 
